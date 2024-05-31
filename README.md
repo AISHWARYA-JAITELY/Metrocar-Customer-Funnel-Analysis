@@ -1,2 +1,5 @@
 # Metrocar-Customer-Funnel-Analysis
-In this project, I used SQL and Tableau to analyze Metrocar's customer funnel, focusing on improvement and optimization. The analysis addressed key business questions on drop-off points, platform performance, age group efficacy, and surge pricing feasibility. 
+In this data analytics project, I analyzed the customer funnel of Metrocar, a ride-sharing app, to identify areas for improvement and optimization. Utilizing SQL for data querying and Tableau for data visualization, I addressed key business questions posed by stakeholders. The analysis focused on identifying funnel steps needing research and improvement, pinpointing drop-off points, analyzing platform performance for marketing budget allocation, evaluating age group performance at each funnel stage, assessing the feasibility of surge pricing based on ride request distribution, and improving the funnel's lowest conversion rate. Deliverables included a video presentation, a dynamic Tableau dashboard, a guided Tableau story, and documented SQL queries. This comprehensive analysis aims to enhance Metrocar's customer acquisition and retention strategies.
+
+# Connect to the data here
+postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Metrocar
